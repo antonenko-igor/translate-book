@@ -1,0 +1,5 @@
+num1 = eval(input('Введите первое число: '))
+num2 = eval(input('Введите второе число: '))
+num3 = eval(input('Введите третье число: '))
+print("Общее- ",num1+num2+num3)
+print("Среднее- ",(num1+num2+num3)/3) 
